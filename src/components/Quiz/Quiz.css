@@ -10,6 +10,11 @@
     border-radius: 10px;
     padding: 40px 50px;
 }
+.container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .container hr{
     border: none;
     height: 2px;
